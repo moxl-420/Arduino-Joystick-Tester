@@ -1,4 +1,4 @@
-# Arduino-Joytsick-Tester
+# Arduino-Joystick-Tester
 An arduino Nano tester for PS2 / X360 joysticks.
 
 When buying these it's nice to know if it works before soldering these in.
