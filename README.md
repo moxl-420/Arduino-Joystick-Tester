@@ -41,3 +41,7 @@ Both modifications can be seen below:
 It should look something like this with the joystick on:
 
 ![Wiring diagram](https://i.imgur.com/wJe8H9A.jpg)
+
+
+# Info used to create this:
+https://fabienroyer.wordpress.com/2011/01/09/connecting-an-analog-joystick-to-a-netduino/
