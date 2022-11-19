@@ -25,7 +25,7 @@ The 3 printed pcb holder which is screwless can be found here:
 https://www.printables.com/model/120461-pcb-mount-5x7cm-no-screws
 
 # Wiring diagram
-![Wiring diagram](https://i.imgur.com/hyVlwZN.png)
+![Wiring diagram](https://i.imgur.com/CUqOtZT.png)
 
 # Assembly
 
@@ -36,11 +36,11 @@ The pinstrips have been cut on top so the pins are exposed.
 This is due to the pins of the button being very tiny.
 
 Both modifications can be seen below:
-![Wiring diagram](https://i.imgur.com/gIRWfpL.jpg)
+![modifications to pcb](https://i.imgur.com/gIRWfpL.jpg)
 
 It should look something like this with the joystick on:
 
-![Wiring diagram](https://i.imgur.com/wJe8H9A.jpg)
+![end result](https://i.imgur.com/wJe8H9A.jpg)
 
 
 # Info used to create this:
