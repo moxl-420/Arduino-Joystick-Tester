@@ -20,7 +20,7 @@ You can take the joystick off and test the next one:
 - some wire, solderiron, ..
 - A pcb holder
 
-The 3 printed pcb holder which is screwless can be found here:
+The 3D printed pcb holder which is screwless can be found here:
 
 https://www.printables.com/model/120461-pcb-mount-5x7cm-no-screws
 
